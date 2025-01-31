@@ -11,6 +11,8 @@ This script uses Apify's API to scrape job listings from Indeed based on specifi
 
 1️⃣ **Install Dependencies**  
 pip install apify-client pandas
+
+
 2️⃣ **Sign Up for Apify & Get API Key**
 To use this scraper, you need an Apify API key. 
 Follow these steps:
